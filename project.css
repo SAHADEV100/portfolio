@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+  }
+.projects h2 {
+    background: black;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    margin-left: 39%;
+    display: inline ;  
+    border-style: groove;
+    border-color: #191919;
+    border-width: medium;
+    margin-top: 50px;
+    border-radius: 10px;   
+}
